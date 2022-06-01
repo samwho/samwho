@@ -9,7 +9,7 @@ It's really nice to meet you.
 
 ### 🔭 I’m currently working on ...
 
-During the day, I'm a Senior Backend Engineer for [@standardbroadcast][1].
+During the day, I'm the Lead Engineer, [Nebula](https://nebula.app) API team for [@standardbroadcast][1].
 During the evenings and weekends, when I'm not spending time with family
 you'll find me either gaming or tinkering with side projects, often at
 <https://twitch.tv/samwhoo>.
