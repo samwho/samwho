@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-I'm Sam. Husband, dad, programmer, whisky-drinker, writer. I love video
-games, typography, lie-ins, cold weather, indoors, change, and now. I buy
-more books than I read, I'm scared of spiders and wasps, I don't like Star
-Wars or the MCU, and I put lots of ice in my whisky.
+I'm Sam. Husband, dad, programmer, whisky-drinker, infrequent writer. I love video games, lie-ins, cold weather, and being indoors. I buy more books than I read, I'm scared of spiders and wasps, and I put lots of ice in my whisky.
 
 It's really nice to meet you.
 
