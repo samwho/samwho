@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi
 
 I'm Sam. Husband, dad, programmer, whisky-drinker, infrequent writer. I love video games, lie-ins, cold weather, and being indoors. I buy more books than I read, I'm scared of spiders and wasps, and I put lots of ice in my whisky.
 
