@@ -1,6 +1,6 @@
 ### 👋 Hi
 
-I'm Sam. Husband, dad, programmer, whisky-drinker, writer. I love video games, lie-ins, cold weather, and being indoors. I buy more books than I read, I'm scared of spiders and wasps, and I put lots of ice in my whisky.
+I'm Sam. Husband, dad, programmer, whisky-drinker, writer. I love video games, lie-ins, cold weather, and being indoors. I buy more books than I read, I'm scared of spiders and wasps, and I put ice in my whisky.
 
 It's really nice to meet you.
 
@@ -9,7 +9,7 @@ It's really nice to meet you.
 Senior Software Engineer @Budibase.
 
 During the evenings and weekends, I'm usually writing visual introductions to programming concepts at
-<https://samwho.dev/blog/>.
+<https://samwho.dev>.
 
 ### 📫 How to reach me
 
