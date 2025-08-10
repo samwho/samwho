@@ -6,7 +6,7 @@ It's really nice to meet you.
 
 ### 🔭 I’m currently working on ...
 
-Senior Software Engineer @Budibase.
+Resting between jobs.
 
 During the evenings and weekends, I'm usually writing visual introductions to programming concepts at
 <https://samwho.dev>.
