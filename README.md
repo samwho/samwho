@@ -17,8 +17,6 @@ Email is best. Please, no spam.
 
 [hello@samwho.dev](mailto:hello@samwho.dev)
 
-[1]: https://github.com/standardbroadcast
-
 <!--
 **samwho/samwho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
